@@ -17,7 +17,7 @@
 				<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 							
 				
-			<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+			<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 	
 </div>
 
