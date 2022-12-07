@@ -54,6 +54,7 @@
 	<br>
 </div>
 
+<br>
 
 <div align=center>
 	<h3>📈 Dashboard 📉</h3>
