@@ -30,6 +30,7 @@
 	
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 
 
 </div>
@@ -44,7 +45,7 @@
 	<a href="*">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="*">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://aeolian-dirigible-08a.notion.site/aka-NURIHO-909c51b291bc438fa526d2effadb76cb">
