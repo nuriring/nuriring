@@ -62,14 +62,11 @@
 </div>
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=nuriring&show_icons=true&theme=dark#gh-dark-mode-only" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriring&layout=compact&theme=dark#gh-dark-mode-only">
 
 	
 </div>
-<div align=center>
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriring&layout=compact&theme=dark#gh-dark-mode-only">
-
-</div>
 	
 	
 <div align=center>
