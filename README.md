@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=NURIHO%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NURIHO%20Github&fontSize=90)
 
 
 - 👋 Hi, I’m @nuriring
